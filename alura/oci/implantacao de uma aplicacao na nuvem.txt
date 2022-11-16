@@ -1,10 +1,27 @@
 Apresentacao
+
 	Oracle Cloud é um conjunto de serviços em nuvem que se vomplementam e permitem criar e executar vários tipos de aplicação em um ambiente de alta disponibilidade. Oracle Cloud , conhecida com OCI, oferece 	recurso de computação de alto desempenho e combina a elasticidade e a utilidade de uma nuvem pública com controle e segurança de uma infraestrutura local, como se fosse um data center privado.
 
 	Isso tudo para oferecer serviços de infraestrutura de alto desempenho bastante ecônomicas.
 
 Doguito Petshop
+
 	Uma aplicação Web (simples), e a sua função é permitir ao usuário, preencher um cadastro com seu nome e o seu e-mail. Este aplicação desenvolvida localmente, e depois disto ela será migrada para rodar na oci.
 
 Computação em Nuvem
-	A computação em Nuvem é a oferta de serviços de computação como servidores, armazenamento, banco de dados, rede e outros softwares, através da Internet que é chamada de Nuvem (Cloud). Lembra da aplicação anteriormente mencionada, Doguito Petshop ? Esta aplicação pode ser implantada em Nuvem. Algumas vantagens... A primeira vantagem é relativa ao custo. A computação em nuvem reduzirá o custo com a compra de hardware e softwares. Outra vantagem da utilização da Cloud é relativa à velocidade. A maior parte dos serviços em Nuvem de computação é fornecida sobre a forma de um autoserviço e sob demanda, isso permite que até as grandes quantidades de recursos de computação possam ser provisionados em minutos.	
+
+	A computação em Nuvem é a oferta de serviços de computação como servidores, armazenamento, banco de dados, rede e outros softwares, através da Internet que é chamada de Nuvem (Cloud). Lembra da aplicação anteriormente mencionada, Doguito Petshop ? Esta aplicação pode ser implantada em Nuvem. Algumas vantagens... A primeira vantagem é relativa ao custo. A computação em nuvem reduzirá o custo com a compra de hardware e softwares. Outra vantagem da utilização da Cloud é relativa à velocidade. A maior parte dos serviços em Nuvem de computação é fornecida sobre a forma de um autoserviço e sob demanda, isso permite que até as grandes quantidades de recursos de computação possam ser provisionados em minutos.
+
+Por que usamos Clouds ?
+
+	A empresa onde trabalhamos está avaliando se deve ou não passar a ultilizar clouds para a implantação de novas aplicações. Para contribuir na discussão, você listou algumas vantagens da utilização de Clouds em relação à utilização de data centers próprios.
+
+	Assinale as alternativas que trazem essas vantagens:
+
+		Maior produtividade --> A computação em nuvem remove a necessidade de muitas tarefas relacionadas a manutenção que ocorrem em data centers locais. Assim as equipes de TI podem investir tempo na obtenção de objetivos de negócio mais importantes.
+
+		Melhor escabilidade --> A computação em nuvem permite a escabilidade elástica de recursos.
+
+		Maior confiabilidade --> A computação em nuvem facilita e reduz os custos de backup de dados, recuperação mediante desastres e conti
+
+		
