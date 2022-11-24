@@ -1,3 +1,9 @@
 Welcome to the article Cloud Infrastructure foundation certification course. I'm so glad you're here. This course has created specifically for you to start learning 
 article cloud infrastructure and become well worst in the fundamentals. My name is Rojit Rahi and I'm part of the oracle cloud team.
 
+I'll your instructor for this course. I have been fortunate to spend more than 10 years in the cloud space and be part of oracle cloud team.
+
+From the very start my team builds OC a certification and trainings and in the past few years we have trained hundreds and thousands of learners on oracle cloud infrastructure.
+
+This course will give you the knowledge skills and the confidence to pass the OCI foundations exam and beyond that, give you the foundational knowledge needed for OCI projects. The course will cover all the areas of the OCI foundations exam.
+
