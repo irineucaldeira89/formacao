@@ -1,0 +1,11 @@
+OCI Overview
+
+Some of world's largest enterprises are running their mission critical workloads on articles next generation cloud platform called Oracle Cloud Infrastructure. 
+Today, I'm really excited to tell you more about it. In this lesson, you will see a general overview of what you can do in OCI.
+
+Let's get started. To keep things simple, let us break them down into seven major categories: cloud infrastructure, database services, data and AI, 
+analytics, governance and administration, developer services, and application services.
+
+But first, the foundation of any cloud platform is the global footprint of regions. We have many generally available regions in the world, along with multi-cloud 
+support with Microsoft Azure and a differentiated hybrid offering called Dedicated Region Cloud@Customer.
+
